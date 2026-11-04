@@ -11,7 +11,6 @@ I'm particularly interested in Data Analytics, Product Analytics, and Marketing 
 | Project | What it does | Stack | Key result |
 |---|---|---|---|
 | [**E-Commerce-Olist**](https://github.com/Chuchman-Dima/E-Commerce-Olist) | Analyzes the impact of delivery delays on customer satisfaction across ~99K orders. Includes SQL data pipeline, data quality checks, exploratory analysis, and Power BI dashboard | PostgreSQL, SQL, Python, Pandas, Power BI | Average review score drops from 4.29 to 1.70 for deliveries delayed by 7+ days |
-| [**Revenue-Forecast-7d**](https://github.com/Chuchman-Dima/Revenue-Forecast-7d) | Analyzes monetization patterns and user behavior across ~1.6M users, including revenue distribution and acquisition channel performance | Python, Pandas, CatBoost, LightGBM, SHAP | Top 1% of payers generate 30% of gross revenue; channel WAPE 10.6% |
 | [**MarketScout**](https://github.com/Chuchman-Dima/MarketScout) | Analyzes ~100K used car listings, exploring pricing patterns, regional differences, market liquidity, and depreciation trends. Includes an interactive Power BI dashboard | Python, Pandas, Power BI, REST API, LightGBM | MAE $1,921, MAPE 15.75%, R² 0.92 |
 | [**Home-Credit-Default-Risk**](https://github.com/Chuchman-Dima/Home-Credit-Default-Risk) | Processes ~58M records across 7 relational tables, performs customer-level analysis, and identifies patterns associated with credit default risk | Python, Pandas, LightGBM, scikit-learn, SHAP | ROC-AUC 0.769 |
 
